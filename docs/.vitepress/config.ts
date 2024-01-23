@@ -68,7 +68,7 @@ export default defineConfig({
             preserveSymlinks: true,
         },
         plugins: [SearchPlugin({
-            origin: "https://sidekick-ui.pages.dev/"
+            origin: "https://zap.sidekick-ui.pages.dev/"
         })]
     },
     ignoreDeadLinks: true,
